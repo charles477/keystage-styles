@@ -1,0 +1,14 @@
+{
+  "indexVersion": 1,
+  "packs": [
+    {
+      "id": "timothy-kingston",
+      "name": "Timothy Kingston",
+      "description": "Tabla, dholak and Telugu/Tamil worship rhythms shared by Timothy Kingston.",
+      "file": "packs/timothy-kingston.zip",
+      "count": 105,
+      "sizeBytes": 655418,
+      "sha256": "7620015d20351975e033932e5d99f6ee33fa4d95b94b8f5f54ac530fb9b618f5"
+    }
+  ]
+}
